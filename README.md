@@ -38,11 +38,11 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
   
-
+.github/workflows/snake.yml
    </div>
     
   
   
 </div>
   
-![Snake animation](https://github.com/LIMA-O-LIMAO/LIMA-O-LIMAO/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/snake-output/snake.svg)
