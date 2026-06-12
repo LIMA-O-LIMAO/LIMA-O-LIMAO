@@ -45,4 +45,4 @@
   
 </div>
   
-![Snake](https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/snake-output/snake.svg)
+![Snake](https://raw.githubusercontent.com/LIMA-O-LIMAO/LIMA-O-LIMAO/snake-output/snake.svg)
